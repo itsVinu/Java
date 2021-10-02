@@ -1,0 +1,1 @@
+select last_name, departmentID  from Employees where departmentID=20 or departmentID=50 order by last_name;

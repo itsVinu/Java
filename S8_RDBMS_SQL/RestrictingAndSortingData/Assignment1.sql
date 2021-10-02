@@ -1,0 +1,1 @@
+select last_name, salary from Employees where salary > 12000 ;

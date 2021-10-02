@@ -1,0 +1,1 @@
+select last_name, department_number from Employees where employee_number = 176 ;
